@@ -103,7 +103,7 @@ h6 {
   #mainNav .navbar-collapse .navbar-nav > .nav-item > .nav-link {
     padding-top: 15px;
     padding-bottom: 15px;
-    color: white; }
+    color: #38E6D8; }
     #mainNav .navbar-collapse .navbar-nav > .nav-item > .nav-link:focus, #mainNav .navbar-collapse .navbar-nav > .nav-item > .nav-link:hover {
       color: rgba(255, 255, 255, 0.5); }
     #mainNav .navbar-collapse .navbar-nav > .nav-item > .nav-link.active, #mainNav .navbar-collapse .navbar-nav > .nav-item > .nav-link.active:focus, #mainNav .navbar-collapse .navbar-nav > .nav-item > .nav-link.active:hover {
@@ -760,7 +760,7 @@ a.text-primary {
     .timeline:before {
         top: 0;
         bottom: 0;
-        position: absolute;
+        position: relative;
         content: " ";
         width: 3px;
         background-color: #eeeeee;

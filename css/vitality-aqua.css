@@ -105,7 +105,7 @@ h6 {
     padding-bottom: 15px;
     color: #38E6D8; }
     #mainNav .navbar-collapse .navbar-nav > .nav-item > .nav-link:focus, #mainNav .navbar-collapse .navbar-nav > .nav-item > .nav-link:hover {
-      color: rgba(255, 255, 255, 0.5); }
+      color:darkgrey; }
     #mainNav .navbar-collapse .navbar-nav > .nav-item > .nav-link.active, #mainNav .navbar-collapse .navbar-nav > .nav-item > .nav-link.active:focus, #mainNav .navbar-collapse .navbar-nav > .nav-item > .nav-link.active:hover {
       color: #38E6D8; }
   @media (min-width: 992px) {
@@ -293,6 +293,8 @@ header.video {
       .call-to-action span.quote {
         font-size: 40px;
         line-height: 42px; } }
+
+
 
 .services .media {
   margin-bottom: 30px; }

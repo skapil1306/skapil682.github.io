@@ -176,15 +176,15 @@ header.masthead {
       height: 50px;
       padding: 0;
       letter-spacing: normal;
-      color: white;
-      border: 2px solid white;
+      color: #38E6D8;
+      border: 2px solid #38E6D8;
       border-radius: 100% !important;
       -webkit-transition: all 0.5s;
       -moz-transition: all 0.5s;
       transition: all 0.5s; }
       header.masthead .scroll-down .btn:hover {
-        color: rgba(255, 255, 255, 0.5) !important;
-        border-color: rgba(255, 255, 255, 0.5);
+        color: black!important;
+        border-color: black;
         outline: none; }
   @media (min-width: 992px) {
     header.masthead {

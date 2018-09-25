@@ -48,6 +48,7 @@
 		background-image: url("macbook/macbook.png");
 	}
 
+
 		.device-mockup > .device > .screen {
 			position: absolute;
 			top:    11.0438729%;
@@ -247,6 +248,7 @@
 .device-mockup.iphone6.portrait {
 	padding-bottom: 207.19%;
 }
+
 
 .device-mockup.iphone6.landscape {
 	padding-bottom: 48.76%;

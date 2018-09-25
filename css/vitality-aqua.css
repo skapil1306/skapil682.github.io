@@ -350,6 +350,9 @@ header.video {
     .portfolio-carousel .item {
       padding: 155px 30px;
       text-align: left; }
+      .portfolio.carousel .item .device-container-mobile {
+          max-height: 200px;
+      }
       .portfolio-carousel .item .project-details img.client-logo {
         margin: 0 auto 25px 0; }
       .portfolio-carousel .item .project-details .project-name {
